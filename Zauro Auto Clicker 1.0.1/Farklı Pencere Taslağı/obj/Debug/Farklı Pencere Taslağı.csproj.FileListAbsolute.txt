@@ -1,0 +1,22 @@
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\bin\Debug\Farklı Pencere Taslağı.exe.config
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\bin\Debug\Farklı Pencere Taslağı.exe
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\bin\Debug\Farklı Pencere Taslağı.pdb
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.csproj.AssemblyReference.cache
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.csproj.SuggestedBindingRedirects.cache
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\obj\Debug\Farklı_Pencere_Taslağı.Form1.resources
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\obj\Debug\Farklı_Pencere_Taslağı.Properties.Resources.resources
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.csproj.GenerateResource.cache
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.csproj.CoreCompileInputs.cache
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.exe
+C:\Ali Aslanmirza\Hazır Taslaklar\Farklı Pencere Taslağı\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.pdb
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.csproj.AssemblyReference.cache
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.csproj.SuggestedBindingRedirects.cache
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\obj\Debug\Farklı_Pencere_Taslağı.Form1.resources
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.csproj.GenerateResource.cache
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\obj\Debug\Farklı Pencere Taslağı.csproj.CoreCompileInputs.cache
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\bin\Debug\Zauro Auto Clicker.exe.config
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\bin\Debug\Zauro Auto Clicker.exe
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\bin\Debug\Zauro Auto Clicker.pdb
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\obj\Debug\Zauro_Auto_Clicker.Properties.Resources.resources
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\obj\Debug\Zauro Auto Clicker.exe
+C:\Ali Aslanmirza\Visual Studio Projeler\Zauro Auto Clicker 1.0.1\Farklı Pencere Taslağı\obj\Debug\Zauro Auto Clicker.pdb
