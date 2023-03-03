@@ -30,3 +30,4 @@ In theory, it makes the program tiny and less space-consuming. However, it does 
 The issue I'm going to talk about here is not for the normal left click, but for the right click. Because right click doesn't work well. Be careful when using it and do not change the recommended setting (Stop After: 10 Clicks).
 
 ## 6·Start Stop
+The start and stop buttons work, but the shortcut key I want to inform here is F7. If it does not work even though you press the F7 key, click on any part of the program to bring it to the top. I'm trying to fix this problem but I haven't gotten anywhere so far. I'll try to fix this in other versions.
