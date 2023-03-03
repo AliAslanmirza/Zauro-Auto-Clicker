@@ -10,8 +10,6 @@ I made an auto clicker application with c#. This application, unlike the others,
 ## 1·Click Interval
 This setting is your click interval. The working style changes from computer to computer (I couldn't quite understand this either). When you increase it in some, it increases to an incredible click speed, while in others it slows down. You can find out by trying it yourself.
 
-##### Not: if it stays 0 the setting will not be active
-
 ## 2·Stop After ... Mins
 This setting comes into effect after running the program and waits until the minute you enter it, then stops clicking.
 
@@ -19,6 +17,8 @@ This setting comes into effect after running the program and waits until the min
 
 ## 3·Stop After ... Clicks
 This setting clicks the screen as many times as you enter in the box and then stops.
+
+##### Not: if it stays 0 the setting will not be active
 
 ## 4·Always On Top
 This setting keeps the program always on top. As soon as you open the program, it will open automatically because without this setting, the program may not work well for your computer.
