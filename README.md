@@ -31,3 +31,9 @@ The issue I'm going to talk about here is not for the normal left click, but for
 
 ## 6·Start Stop
 The start and stop buttons work, but the shortcut key I want to inform here is F7. If it does not work even though you press the F7 key, click on any part of the program to bring it to the top. I'm trying to fix this problem but I haven't gotten anywhere so far. I'll try to fix this in other versions.
+
+# Credits
+### Developer: Ali Aslanmirza
+### Teacher:
+### Tester:
+### Tester:
