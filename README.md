@@ -5,6 +5,12 @@ I made an auto clicker application with c#. This application, unlike the others,
 
 ![Screenshot](picture1.png)
 
+# Downnload
+exe from the Direct Download section. You can download it as a file or you can download the source file, open it in Visual Studio, build and start it.
+
+# Platform
+Currently available only for Windows OS.
+
 # Settings
 
 ## 1·Click Interval
