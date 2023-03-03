@@ -3,4 +3,4 @@ I made an auto clicker application with c#. This application, unlike the others,
 
 #### Picture Of The Program:
 
-![Screenshot](picture.png)
+![Screenshot](picture1.png)
