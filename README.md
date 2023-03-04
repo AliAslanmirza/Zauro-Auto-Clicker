@@ -30,7 +30,7 @@ This setting clicks the screen as many times as you enter in the box and then st
 This setting keeps the program always on top. As soon as you open the program, it will open automatically because without this setting, the program may not work well for your computer.
 
 ## 5·Minimize
-In theory, it makes the program tiny and less space-consuming. However, it does not work in the current version (1.1.1). It's under development and I'm trying to make it most useful.
+This setting reduces the footprint of the program and makes it more useful.
 
 ## 6·Button Selection
 The issue I'm going to talk about here is not for the normal left click, but for the right click. Because right click doesn't work well. Be careful when using it and do not change the recommended setting (Stop After: 10 Clicks).
