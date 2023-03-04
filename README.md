@@ -3,7 +3,7 @@ I made an auto clicker application with c#. This application, unlike the others,
 
 ## Picture of Program
 
-<img src="file:///C:/Users/ali_a/Downloads/pictureprg.png" alt="alt text" width="320" height="180">
+![Screenshot](pictureprg.png)
 
 # Downnload
 exe from the Direct Download section. You can download it as a file or you can download the source file, open it in Visual Studio, build and start it.
